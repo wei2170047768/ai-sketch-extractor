@@ -31,7 +31,7 @@
 | ![风景原图](https://img.sipingseo.com/file/online-sketch-extractor/WLehAMsJ.webp) | ![风景线稿](https://img.sipingseo.com/file/online-sketch-extractor/NUYwT9ED.webp) |
 
 ### 3. 真人转动漫风格
-AI 深度学习二次元线条特征，快速获取高质量的同人创作素材。
+AI 深度学习二次元线条特征，快速获取高质量的同人创作素
 | 原始真人 | AI 动漫线稿 |
 | :--- | :--- |
 | ![真人原图](https://img.sipingseo.com/file/online-sketch-extractor/215wKJnn.webp) | ![动漫线稿](https://img.sipingseo.com/file/online-sketch-extractor/P91o5CKw.webp) |
