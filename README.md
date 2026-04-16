@@ -25,7 +25,7 @@
 | ![人像原图](https://img.sipingseo.com/file/online-sketch-extractor/iyFTAneH.webp) | ![人像线稿](https://img.sipingseo.com/file/online-sketch-extractor/Fpj2MUpG.webp) |
 
 ### 2. 风景照片转建筑速写
-强调透视结构与建筑线条，为户外写生和设计方案提供参考。
+强调透视结构与建筑线条，为户外写生和设计方案提供参考
 | 原始风景 | AI 速写线稿 |
 | :--- | :--- |
 | ![风景原图](https://img.sipingseo.com/file/online-sketch-extractor/WLehAMsJ.webp) | ![风景线稿](https://img.sipingseo.com/file/online-sketch-extractor/NUYwT9ED.webp) |
