@@ -19,7 +19,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 人像照片转精细素描
-提取精细的铅笔线条，保留面部轮廓，无杂乱阴影，最适合临摹练习
+提取精细的铅笔线条，保留面部轮廓，无杂乱阴影，最适合临摹练习 。
 | 原始照片 | AI 提取线稿 |
 | :--- | :--- |
 | ![人像原图](https://img.sipingseo.com/file/online-sketch-extractor/iyFTAneH.webp) | ![人像线稿](https://img.sipingseo.com/file/online-sketch-extractor/Fpj2MUpG.webp) |
